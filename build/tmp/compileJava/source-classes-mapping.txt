@@ -10,11 +10,15 @@ dao/ClassStudentDao.java
  dao.ClassStudentDao
 dao/StudentDao.java
  dao.StudentDao
-controller/filter/CheckLogin.java
- controller.filter.CheckLogin
 controller/StudentServlet.java
  controller.StudentServlet
 model/Login.java
  model.Login
+model/Account.java
+ model.Account
+dao/AccountDao.java
+ dao.AccountDao
 controller/LoginServlet.java
  controller.LoginServlet
+controller/filter/CheckLogin.java
+ controller.filter.CheckLogin
